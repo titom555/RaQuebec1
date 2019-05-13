@@ -4,4 +4,3 @@
 .Ruserdata
 blogdown
 .DS_Store # Thumbs.db for Windows users
-public/ # for Netlify
